@@ -20,6 +20,8 @@ This project focuses on developing a machine learning model for identifying toma
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 ![image](https://github.com/its-kumar-yash/Tomato-Plant-Disease-Detection-Model/assets/97521394/1b2f2b2a-c3ef-48f3-a90a-2e36dd7352f4)
+![image](https://github.com/its-kumar-yash/Tomato-Plant-Disease-Detection-Model/assets/97521394/764391fe-21d2-4cd4-ae34-4dea84c5dad0)
+
 
 
 ## Technology Stack
