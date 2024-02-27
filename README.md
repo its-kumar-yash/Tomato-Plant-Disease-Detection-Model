@@ -34,5 +34,3 @@ This project focuses on developing a machine learning model for identifying toma
 - Install required dependencies.
 - Run the `jupiter notebook`.
 - Upload `tf_lite_quantized_model.tflite` file on `Edge Impulse` and Build the model.
-
-<b>Feel free to explore the project further and contribute to its development!</b>
